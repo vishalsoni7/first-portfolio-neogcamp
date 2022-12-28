@@ -15,13 +15,10 @@ hr {
     margin: 2rem 0rem;
 }
 
-/** spaces **/
-
 .margin-md {
     margin: 2rem;
 }
 
-/** container **/
 .container {
     padding: 0rem 1rem;
 }
@@ -31,7 +28,6 @@ hr {
     margin: auto;
 }
 
-/** links **/
 .link {
     box-sizing: border-box;
     text-decoration: none;
@@ -58,10 +54,6 @@ hr {
     /*margin: 1rem 1rem 1rem 0rem;*/
 }
 
-/** look into BEM naming convention for CSS **/
-
-/** lists **/
-
 .list-non-bullet {
     list-style: none;
     padding-inline-start: 0px;
@@ -71,8 +63,6 @@ hr {
     display: inline;
     padding: 0rem 0.5rem;
 }
-
-/** navigation **/
 
 .navigation {
     background-color: var(--primary-color);
@@ -98,8 +88,6 @@ hr {
     font-weight: bold;
 }
 
-/** header **/
-
 .hero {
     padding: 2rem;
     padding-top: 5rem;
@@ -123,8 +111,6 @@ hr {
     color: var(--primary-color);
 }
 
-/** sections **/
-
 .section {
     padding: 2rem;
 }
@@ -138,8 +124,6 @@ hr {
 .ow {
     background-color: var(--off-white);
 }
-
-/** footers **/
 
 .footer {
     background-color: var(--primary-color);
@@ -163,12 +147,10 @@ hr {
     padding-inline-start: 0px;
 }
 
-/** projects **/
 .showcase-list {
     padding: 2rem;
 }
 
-/** blogs **/
 .showcase-blog {
     padding-bottom: 6rem;
 }
