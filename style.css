@@ -25,7 +25,8 @@ hr {
 
 .container-center {
     max-width: 600px;
-    margin: auto;
+    margin:0px auto;
+    text-align: center;
 }
 
 .link {
@@ -40,19 +41,21 @@ hr {
     background-color: var(--primary-color);
     border-radius: 0.5rem;
     color: white;
-    display: block;
+    display: inline;
     max-width: 140px;
     /* margin: 1rem 1rem 1rem 0rem; */
 }
+
 
 .link-secondary {
     color: var(--primary-color);
     border-radius: 0.5rem;
     border: 1px solid var(--primary-color);
-    display: block;
+    display: inline;
     max-width: 140px;
     /* margin: 1rem 1rem 1rem 0rem; */
 }
+
 
 .list-non-bullet {
     list-style: none;
