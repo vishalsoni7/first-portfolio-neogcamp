@@ -42,7 +42,7 @@ hr {
     color: white;
     display: block;
     max-width: 140px;
-    /*!margin: 1rem 1rem 1rem 0rem;*/
+    /* margin: 1rem 1rem 1rem 0rem; */
 }
 
 .link-secondary {
@@ -51,7 +51,7 @@ hr {
     border: 1px solid var(--primary-color);
     display: block;
     max-width: 140px;
-    /*margin: 1rem 1rem 1rem 0rem;*/
+    /* margin: 1rem 1rem 1rem 0rem; */
 }
 
 .list-non-bullet {
