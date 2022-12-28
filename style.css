@@ -36,6 +36,8 @@ hr {
     box-sizing: border-box;
     text-decoration: none;
     padding: 0.5rem 1rem;
+    text-align: center;
+    margin: 0px auto;
 }
 
 .link-primary {
@@ -44,7 +46,7 @@ hr {
     color: white;
     display: block;
     max-width: 140px;
-    margin: 1rem 1rem 1rem 0rem;
+    /*!margin: 1rem 1rem 1rem 0rem;*/
 }
 
 .link-secondary {
@@ -53,7 +55,7 @@ hr {
     border: 1px solid var(--primary-color);
     display: block;
     max-width: 140px;
-    margin: 1rem 1rem 1rem 0rem;
+    /*margin: 1rem 1rem 1rem 0rem;*/
 }
 
 /** look into BEM naming convention for CSS **/
@@ -77,6 +79,7 @@ hr {
     color: white;
     padding: 1rem;
     border-bottom-left-radius: 1rem;
+    border-bottom-right-radius: 1rem;
 }
 
 .navigation .nav-brand {
@@ -128,6 +131,7 @@ hr {
 
 .section h1 {
     text-align: center;
+    margin: 0px auto;
 
 }
 
@@ -143,6 +147,7 @@ hr {
     text-align: center;
     color: white;
     border-top-right-radius: 1rem;
+    border-top-left-radius: 1rem;
 }
 
 .footer .link {
