@@ -21,14 +21,14 @@ hr {
 
 .container {
     padding: 0rem 1rem;
-   
+
 }
 
 .container-center {
     max-width: 600px;
     margin: 0px auto;
     text-align: center;
-  
+
 }
 
 .link {
@@ -63,7 +63,7 @@ hr {
     border: 1px solid var(--primary-color);
     display: inline;
     max-width: 140px;
-   
+
 }
 
 .link-secondary:hover {
@@ -159,8 +159,8 @@ hr {
 }
 
 .footer .link:hover {
- border-bottom: 1.5px solid white;
- transition: 0.3s;
+    border-bottom: 1.5px solid white;
+    transition: 0.3s;
 
 }
 
