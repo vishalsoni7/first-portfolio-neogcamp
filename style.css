@@ -46,6 +46,7 @@ hr {
     color: white;
     display: inline;
     max-width: 140px;
+    transition-duration: 0.2s;
 }
 
 .link-primary:hover {
